@@ -17,6 +17,7 @@ Built for **accuracy, stability, and low false‑positives**.
 - Security headers & TLS posture
 - Risk levels: LOW / MEDIUM / HIGH / CRITICAL
 
+## NOTE !! FOR LINUX ONLY ‼️‼️
 ## Install
 ```bash
 git clone https://github.com/yubbiXploit86/slime.git
